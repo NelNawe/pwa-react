@@ -4,7 +4,7 @@
 DSESCRIPTION
 
 Il est question de créér une progressive web app avec react et le rendre en offline.
-Dans ce cas j'utilise un compteur pour pouvoir 
+Dans ce cas j'utilise un compteur pour pouvoir manipuler le service worker
 
 
  PREREQUIS
