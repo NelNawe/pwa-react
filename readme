@@ -1,0 +1,14 @@
+# Progressive Web APP avec REACT
+
+Il est question de créér une pwa avec react et le rendre en offline.
+#Préréquis 
+#Utilisation 
+Creer l'application pwa avec react 
+npx create-react-app my-app --template cra-template-pwa
+Pour lancer le projet 
+npm start
+Installer serve afin de lancer afin de lancer les fichiers statique du front-end 
+npm install serve 
+Deployer l'app sur un serveur statique 
+npm run build
+npx serve -s build 
