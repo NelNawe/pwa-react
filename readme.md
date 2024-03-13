@@ -1,7 +1,7 @@
 #PWA
  Progressive Web APP avec REACT
 
-DSESCRIPTION
+DESCRIPTION
 
 Il est question de créér une progressive web app avec react et le rendre en offline.
 Dans ce cas j'utilise un compteur pour pouvoir manipuler le service worker
